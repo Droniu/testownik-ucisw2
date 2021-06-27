@@ -1,0 +1,6 @@
+X0100
+Oblicz czas propagacji sieci dystrybucji sygnału zegarowego jeśli wiadomo, że moduł DLL w układzie FPGA osiągnął synchronizację przy opóźnieniu 34ns dla sygnału zegarowego o częstotliwości 50Mhz.
+6ns
+3ns
+4ns
+5ns

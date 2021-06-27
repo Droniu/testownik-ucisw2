@@ -1,0 +1,6 @@
+X0100
+Optymalne zrealizowany za pomocą LUT rejestr przesuwny o stałej długości 120 bitów zajmie w układzie Spartan-3E:
+8x LUT + 4x F5MUX + 3x F6MUX
+8x LUT + 4x F5MUX + 2x F6MUX + F7MUX
+9x LUT
+8x LUT + 1 przerzutnik
