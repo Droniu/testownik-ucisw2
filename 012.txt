@@ -1,0 +1,6 @@
+X0001
+W module RAM16X1D w układzie Spartan-3E:
+zapis następuje synchronicznie oraz występuje port dualny tylko do odczytu synchronicznego
+zapis i odczyt następuje asynchronicznie oraz występuje port dualny
+zapis następuje asynchronicznie oraz występuje port dualny tylko do odczytu asynchronicznego
+zapis następuje synchronicznie oraz występuje port dualny tylko do odczytu asynchronicznego

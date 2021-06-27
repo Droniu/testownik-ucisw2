@@ -1,0 +1,6 @@
+X1000
+W trybie dwuportowym pamięci blokowej układu Spartan-3E, jeśli ta sama komórka jest jednocześnie zapisywana w jednym porcie oraz odczytywana w drugim ...
+zapis wykona się poprawnie, a odczyt będzie błędny (nieokreślony)
+zapis wykona się poprawnie, a odczytana zostanie wartość poprzednia (sprzed zapisu)
+zapis wykona się poprawnie, a odczytana zostanie wartość nowa lub poprzednia w zależności od ustawienia atrybutu WRITE_MODE
+zapis wykona się poprawnie, a odczytana zostanie wartość nowa (po zapisie)

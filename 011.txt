@@ -1,0 +1,6 @@
+X0010
+W blokowej pamięci RAM układu Spartan-3E podaj liczbę bitów parzystości dla konfiguracji o czterobajtowej magistrali danych:
+1
+0
+4
+2

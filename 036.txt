@@ -1,0 +1,6 @@
+X0001
+Układ Spartan-II o rozmiarze matrycy 16 wierszy na 24 kolumny będzie posiadał:
+8 bloków pamięci RAM o łącznej pojemności 48kb
+4 bloki pamięci RAM o łącznej pojemności 16kb
+4 bloki pamięci RAM o łącznej pojemności 24kb
+8 bloków pamięci RAM o łącznej pojemności 32kb

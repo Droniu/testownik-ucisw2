@@ -1,0 +1,6 @@
+X1000
+Tryb dwuportowy pamięci blokowej układu Spartan-3E umożliwia dostęp do komórek pamięci ...:
+Przez dwa niezależne i w pełni równoważone porty, bez rozróżnienia ich priorytetu
+Przez dodatkowy port dualny, ale mogący pracować tylko w trybie odczytu
+Przez dwa niezależne i w pełni równoważone porty, przy czym port podstawowy A ma wyższy priorytet niż port dualny B
+Przez dodatkowy port dualny, ale tylko gdy port podstawowy jest nieaktywny

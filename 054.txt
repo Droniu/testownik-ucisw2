@@ -1,0 +1,6 @@
+X0010
+Blokowa pamiec RAM ukladu Spartan-3E o 12-bitowej magistrali adresowej bedzie miala:
+1-bitowe magistrale danych (WE+WY) bez bitów parzystosci
+8-bitowe magistrale danych (WE+WY) z jednym bitem parzystosci
+4-bitowe magistrale danych (WE+WY) bez bitów parzystosci
+2-bitowe magistrale danych (WE+WY) bez bitów parzystości

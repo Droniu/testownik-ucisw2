@@ -1,0 +1,6 @@
+X0001
+Globalne sieci dystrybucji sygnałów zegarowych w układach FPGA są konstruowane tak, aby w pierwszej kolejności:
+zredukować zajmowaną przez nie powierzchnię układu
+zredukować generowane przez nie straty mocy w układzie
+zapewnić jak najkrótsze czasy propagacji od PinClk do najbliższych przerzutników w matrycy, nawet kosztem wydłużenia propagacji do pozostałych
+zapewnić jak najbardziej wyrównane czasy propagacji od PinClk do wszystkich przerzutników w matrycy, nawet kosztem ich zwiększenia

@@ -1,0 +1,6 @@
+X0001
+Atrybut WRITE_MODE pamięci blokowej układu Spartan-3E określa:
+zachowanie się komórek pamięci podczas operacji zapisu
+synchroniczny bądź asynchroniczny tryb zapisu
+zachowanie się komórek pamięci podczas operacji odczytu
+zachowanie się portu odczytu danych (DO) podczas operacji zapisu

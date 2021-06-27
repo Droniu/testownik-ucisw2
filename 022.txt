@@ -1,0 +1,4 @@
+X10
+Czy użycie dedykowanych sieci dystrybucji sygnału zegarowego pomaga eliminować problem jego skosu?
+Prawda
+Fałsz

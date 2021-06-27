@@ -1,0 +1,6 @@
+X0001
+W trybie dwuportowym pamięci blokowej układu Spartan-3E, jeśli ta sama komórka jest jednocześnie odczytywana przez oba porty . . .
+poprawny odczyt wykona tylko jeden port, określony ustawieniem atrybutu WRITE_MODE
+nastąpi konflikt dostępu i oba odczyty będą błędne
+odczyt portu A będzie poprawny, natomiast portu B błędny
+oba odczyty wykonają się poprawnie

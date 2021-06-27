@@ -1,0 +1,4 @@
+X01
+Czy generacja sygnału zegarowego używająca moduł DLL daje – w porównaniu do PLL – lepszą stabilność generowanego sygnału przy przejściowych zakłóceniach wzorcowego sygnału WE?
+Prawda
+Fałsz

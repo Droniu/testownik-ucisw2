@@ -1,0 +1,6 @@
+X1111
+Ile elementów FiMUX występuje w jednym bloku CLB układu Spartan-3E? Dopasuj podane liczby: (COMBOBOX)
+F5MUX	- 4
+F8MUX	- 0.5 (jeden na dwa bloki)
+F7MUX	- 1
+F6MUX	- 2

@@ -1,0 +1,6 @@
+X0010
+Ile elementów zostanie użytych do realizacji multipleksera 8:1 w jednym bloku CLB układu Spartan-3E?
+2x LUT + 1x F5MUX
+4x LUT + 4x F5MUX + 2x F6MUX + 1x F7MUX
+4x LUT + 2x F5MUX + 1x F6MUX
+2x LUT + 2x F5MUX + 1x F6MUX

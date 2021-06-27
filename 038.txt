@@ -1,0 +1,6 @@
+X0010
+Czas odczytu komórki w pamięci RAM16X1S jest identyczny jak:
+czas ustawienia sygnału adresu dla tej pamięci
+czas przełączania się przerzutnika w bloku CLB
+czas propagacji funkcji boolowskiej generowanej w elemencie LUT
+czas ustawienia dla przerzutnika w bloku CLB

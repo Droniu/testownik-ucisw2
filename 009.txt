@@ -1,0 +1,7 @@
+X1000
+Jeden moduł blokowej pamięci RAM układu Spartan-3E udostępnia całkowitą pojemność wynoszącą:
+w zależności od konfiguracji 16kb (przy rozmiarze słowa poniżej 8b) lub 18kb (dla pozostałych przypadków)
+zawsze 16kb
+w zależności od konfiguracji 16kb (przy rozmiarze słowa poniżej 8b) lub 20kb (dla pozostałych przypadków)
+zawsze 20kb
+

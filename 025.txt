@@ -1,0 +1,6 @@
+X1111
+Dla blokowej pamięci RAM układu Spartan-3E dopasuj liczbę bitów parzystości do szerokości magistrali danych: (COMBOBOX)
+dane 32b – 4 bity parzystości
+dane 4b – 0 bitów parzystości
+dane 16b – 2 bity parzystości
+dane 8b – 1 bit parzystości

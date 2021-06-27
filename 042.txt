@@ -1,0 +1,6 @@
+X1000
+Element RAMB16_S4_S36 ma magistrale adresowe o szerokościach:
+12b oraz 9b
+11b oraz 9b
+11b oraz 10b
+12b oraz 10b

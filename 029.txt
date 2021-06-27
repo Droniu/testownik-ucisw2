@@ -1,0 +1,4 @@
+X01
+Czy w jednym plastrze układu serii Spartan-3E można zrealizować 2 dowolne funkcje kombinacyjne 4 zm. oraz dodatkowo jedną dowolną funkcję 3 zm.?
+Prawda
+Fałsz

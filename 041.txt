@@ -1,0 +1,4 @@
+X11
+Dopasuj ideę pracy układu generacji sygnału zegarowego przy wykorzystaniu modułów DLL oraz PLL: (COMBOBOX)
+DLL - zestrojenie tylko wyprzedzenia fazowego
+PLL - zestrojenie częstotliwości oraz wyprzedzenia fazowego

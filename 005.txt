@@ -1,0 +1,5 @@
+X10
+Czy w jednym plastrze układu serii Spartan-3E można zrealizować multiplekser 4:1?
+Prawda
+Fałsz
+

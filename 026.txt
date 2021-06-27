@@ -1,0 +1,6 @@
+X0010
+Dwa przerzutniki o parametrach: czas przełączania 3ns, czas ustawienia 1.5ns oraz czas podtrzymania 0.5ns, połączone są ścieżką propagacji kombinacyjnej o opóźnieniu 4.5ns. Minimalny okres zegara, przy którym taki układ będzie pracować poprawnie, wynosi:
+8.0ns
+9.5ns
+9.0ns
+7.5ns

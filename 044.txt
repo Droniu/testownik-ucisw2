@@ -1,0 +1,4 @@
+X10
+Czy problemy w przełączaniu się przerzutników spowodowane dużym skosem sygnału zegarowego można eliminować stosując przerzutniki o jak najmniejszym (np. zerowym) czasie podtrzymania (hold)?
+Prawda
+Fałsz

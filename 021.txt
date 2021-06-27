@@ -1,0 +1,6 @@
+X0001
+Aby w pamięci blokowej układu Spartan-3E podczas każdej operacji zapisu można było odczytać nadpisywaną (traconą) wartość, atrybut WRITE_MODE musi być ustawiony na:
+IGNORE
+NO_CHANGE
+WRITE_FIRST
+READ_FIRST

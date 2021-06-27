@@ -1,0 +1,6 @@
+X1000
+Wypadkowy czas propagacji bramki logicznej wyznaczany jest z czasów propagacji Tlh oraz Thl (dla przełączeń low->high oraz high->low) jako:
+średnia arytmetyczna Tlh oraz Thl
+max( Tlh, Thl)
+min( Tlh, Thl)
+średnia geometryczna Tlh oraz Thl

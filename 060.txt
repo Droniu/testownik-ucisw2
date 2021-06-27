@@ -1,0 +1,6 @@
+X1000
+Jeśli w pamięci blokowej układu Spartan-3E port odczytu danych DO nie zmienia się podczas każdej operacji zapisu, atrybut WRITE_MODE ma wartość:
+NO_CHANGE
+READ_FIRST
+WRITE_FIRST
+IGNORE

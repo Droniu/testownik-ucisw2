@@ -1,0 +1,6 @@
+X0100
+W pewnym układzie synchronizatora próbkującego sygnał danych o częstotliwości Fd = 500MHz średni czas pomiędzy zakłóceniami metastabilnymi (MTBF) wynosi 1sec. Przy zmianie częstotliwości sygnału danych na Fd = 250MHz czas ten będzie wynosił:
+0.50sec
+2.00sec
+4.00sec
+0.25sec

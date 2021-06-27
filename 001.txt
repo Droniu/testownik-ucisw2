@@ -1,0 +1,6 @@
+X0100
+Aby w układzie Spartan-3E zrealizować 9-bitowy rejestr przesuwny za pomocą LUT na jego weście adresowe należy podać wektor bitowy:
+B”1001”
+B”1000”
+B”0110”
+B”0111”

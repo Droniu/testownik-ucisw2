@@ -1,0 +1,6 @@
+X0100
+Z przejściowej charakterystyki napięciowej bramki logicznej można odczytać:
+dopuszczalne zakresy napięć zera i jedynki logicznej, ale tylko dla WY bramki
+dopuszczalne zakresy napięć zera i jedynki logicznej dla WE i WY bramki
+wydajność prądową bramki w stanie niskim oraz wysokim
+czasy propagacji bramki dla przełączania się LH oraz HL

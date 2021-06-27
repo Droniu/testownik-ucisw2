@@ -1,0 +1,7 @@
+X00010
+Problemy czasowe w układach, w których występuje duży skos zegara, można eliminować:
+Wydłużając czas propagacji połączeń na ścieżce zegara
+Stosując przerzutniki o małym czasie propagacji Clk->Q
+Ustalając współczynnik wypełniania sygnału zegarowego na dokładnie 50%
+Odwracając kierunek propagacji sygnału zegarowego w rejestrze przesuwnym przeciwnie do kierunku propagacji.
+Stosując przerzutniki o jak najkrótszym czasie ustawiania t_SET-UP

@@ -1,0 +1,6 @@
+X0100
+W układzie Spartan-3E moduł ROM32x4 zajmie:
+8x LUT + 2x F6MUX
+8x LUT + 4x F5MUX
+4x LUT + 2x F5MUX
+8x LUT + 4x F5MUX + 2x F6MUX

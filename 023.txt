@@ -1,0 +1,6 @@
+X0010
+Całkowity czas, przez który sygnał wejściowy przerzutnika musi być stabilny wokół zbocza zegarowego, oblicza się jako:
+sumę czasu przełączania się przerzutnika oraz skosu zegara
+sumę czasu przełączania się oraz podtrzymania (hold) przerzutnika
+sumę czasu ustawienia (set-up) oraz podtrzymania (hold)
+sumę czasu ustawienia (set-up) przerzutnika oraz skosu zegara

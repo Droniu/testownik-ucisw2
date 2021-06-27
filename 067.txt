@@ -1,0 +1,6 @@
+X0010
+Synchronizator pojedynczy próbkuje pewien sygnał D z częstotliwością Fs = 100MHz, a parametry przerzutników (w synchronizatorze oraz w układzie) wynoszą: czas przełączania 3.5ns, czas ustawienia 1.5ns oraz czas podtrzymania 0.5ns. Aby stan metastabilny, który pojawił się w synchronizatorze, zakłócił pracę układu, musi trwać co najmniej:
+4.5ns
+3.5ns
+5ns
+4.0ns

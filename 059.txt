@@ -1,0 +1,6 @@
+X1000
+Przy częstotliwości sygnału zegarowego Fclk = 100 MHz moduł DLL w układzie FPGA osiągnął synchronizację dla opóźnienia 27ns. Opóźnienie sieci dystrybucji sygnału zegarowego można oszacować na:
+3ns
+4ns
+5ns
+7ns

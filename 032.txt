@@ -1,0 +1,6 @@
+X1000
+Pewną funkcję kombinacyjną 39 zmiennych udało się (dość szczęśliwie) zrealizować w jednym bloku CLB układu Spartan-3E. Ile elementów FiMUX zostało użytych?
+4x F5MUX + 2x F6MUX + 1x F7MUX
+4x F5MUX + 2x F6MUX + 1x F8MUX
+4x F5MUX + 2x F6MUX + 2x F7MUX
+4x F5MUX + 2x F7MUX

@@ -1,0 +1,4 @@
+X10
+Czy problemy w przełączaniu się przerzutników spowodowane dużym skosem sygnału zegarowego eliminuje się wprowadzając dodatkowe opóźnienia w ścieżkach propagacji danych?
+Prawda
+Fałsz

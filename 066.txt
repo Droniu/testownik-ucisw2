@@ -1,0 +1,6 @@
+X1000
+Prąd wejściowy bramki w stanie wysokim przy zwarciu do masy można wyznaczyć z:
+wejściowej charakterystyki prąd/napięcie
+wyjściowej charakterystyki prąd/napięcie dla bramki w stanie wysokim
+wyjściowej charakterystyki prąd/napięcie dla bramki w stanie niskim
+przejściowej charakterystyki napięciowej

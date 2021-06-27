@@ -1,0 +1,6 @@
+X1000
+Któremu elementowi dopowiada funkcjonalnie 4-wejściowy generator funkcji logicznej LUT (bez dodatkowych rozszerzeń w jego strukturze)?
+ROM16X1
+RAM16X1D
+RAM16X1S
+ROM32X1

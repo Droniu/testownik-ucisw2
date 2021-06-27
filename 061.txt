@@ -1,0 +1,6 @@
+X1000
+W układzie scalonym zawierającym przerzutnik, którego porty (Clk, D, Q) są dołączone do wyprowadzeń zewnętrznych obudowy poprzez bufory, wzrost czasu ustawienia (set-up) wymaganego na wyprowadzeniu pinD nastąpi wskutek:
+wzrostu opóźnienia w wejściowej ścieżce D
+wzrostu opóźnienia w wyjściowej ścieżce Q
+spadku opóźnienia w wejściowej ścieżce D
+wzrostu opóźnienia w wejściowej ścieżce Clk

@@ -1,0 +1,6 @@
+X0001
+Generacja on-chip sygnalu zegarowego ma na celu przede wszystkim:
+eliminację problemu skosu zegara
+kompensację czasów propagacji wnoszonych przez rozległe sieci dystrybucji sygnału zegarowego w matrycy FPGA
+uproszczenie organizacji systemu cyfrowego (układ FPGA jako źródło globalnego sygnału synchronizującego)
+umożliwienie osiągania wyższych częstotliwości pracy niż przy generacji zewnętrznej

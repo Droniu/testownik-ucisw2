@@ -1,0 +1,6 @@
+X0001
+Układy FPGA firmy Xilinx wykorzystują architekturę typu:
+architektura wierszowa
+hierarchia bloków PLD
+morze bramek
+macierz symetryczna

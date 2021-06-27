@@ -1,0 +1,6 @@
+X0010
+W układzie Spartan-3E pamięć RAM32X3S zajmie:
+6x LUT + 2x F5MUX
+3x LUT + 6x F5MUX
+6x LUT + 3x F5MUX
+3x LUT + 3x F5MUX

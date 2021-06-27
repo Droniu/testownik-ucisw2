@@ -1,0 +1,4 @@
+X01
+Czy w jednym bloku CLB układu serii XC4000 można zrealizować pewną (spełniającą określone warunki) funkcję kombinacyjną 10 zm.?
+Prawda
+Fałsz

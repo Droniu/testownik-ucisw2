@@ -1,0 +1,6 @@
+X0001
+W trybie dwuportowym pamięci blokowej układu Spartan-3E, jeśli oba porty jednocześnie wykonują operację zapisu tej samej komórki ...
+do komórki zostanie wpisana wartość będąca bitowym iloczynem (AND) obu portów
+do komórki zostanie wpisana wartość będąca bitową sumą (OR) obu portów
+zapisana zostanie wartość z portu A jako tego o wyższym priorytecie
+zapisana zostanie wartość błędna (nieokreślona)

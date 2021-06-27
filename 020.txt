@@ -1,0 +1,6 @@
+X0001
+W pamięci blokowej układu Spartan-3E, parametr clock-to-clock set-up określa ...
+minimalny wymagany odstęp w czasie pomiędzy dwiema kolejnymi operacjami danego portu
+w trybie dwuportowym minimalny wymagany odstęp w czasie pomiędzy dwiema kolejnymi jednoczesnymi operacjami portów A i B
+w trybie dwuportowym minimalny wymagany odstęp w czasie pomiędzy dwiema kolejnymi operacjami portów A i B
+w trybie dwuportowym maksymalny odstęp w czasie pomiędzy operacjami portu A oraz B uważanymi za jednoczesne

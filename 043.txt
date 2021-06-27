@@ -1,0 +1,6 @@
+X0001
+Zrealizowany za pomocą LUT 59-bitowy rejestr przesuwny zajmie w układzie Spartan-3E:
+6x LUT + 3x F5MUX + F6MUX
+4x LUT + 2x F5MUX
+4x LUT + 4x F5MUX + 2x F6MUX + 1x F7MUX
+4x LUT + 2x F5MUX + F6MUX

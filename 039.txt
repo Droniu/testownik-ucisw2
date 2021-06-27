@@ -1,0 +1,6 @@
+X0001
+Dostępny w rodzinie XC4000 element RAM16X1S:
+ma Synchroniczny zapis oraz Synchroniczny odczyt
+ma Asynchroniczny zapis oraz Asynchroniczny odczyt
+ma Asynchroniczny zapis oraz Synchroniczny odczyt
+ma Synchroniczny zapis oraz Asynchroniczny odczyt

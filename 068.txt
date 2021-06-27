@@ -1,0 +1,6 @@
+X0010
+Stałoprądowy margines szumów bramki można wyznaczyć z:
+wyjściowej charakterystyki prądowo-napięciowej dla bramki w stanie wysokim
+wyjściowej charakterystyki prądowo-napięciowej dla bramki w stanie niskim
+przejściowej charakterystyki napięciowej
+wejściowej charakterystyki prądowo-napięciowej

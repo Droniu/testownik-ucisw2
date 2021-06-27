@@ -1,0 +1,6 @@
+X0001
+Jesli przerzutnik próbkuje pewien (nieskorelowany z nim) sygnal D z częstotliwością Fs=100MHz, a jego przedział metastabilny ma dlugosc W = 100ps, to prawdopodobienstwo wystapienia metastabilnosci przy każdej zmianie D wynosi:
+0.1%
+0.001%
+0.01%
+1%

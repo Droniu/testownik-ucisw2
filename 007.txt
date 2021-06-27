@@ -1,0 +1,6 @@
+X0001
+W modelu zastępczym pozwalającym szacować straty mocy w układzie cyfrowym, straty te zależą:
+liniowo od różnicy pojemności obciążającej i zastępczej pojemności wewnętrznej
+liniowo od kwadratu (drugiej potęgi) częstotliwości pracy
+nieliniowo od sumarycznej pojemności obciążającej i zastępczej pojemności wewnętrznej
+liniowo od częstotliwości pracy

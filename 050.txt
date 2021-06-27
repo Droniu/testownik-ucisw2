@@ -1,0 +1,6 @@
+X0100
+W pewnym układzie para rejestrów sekwencyjnie sąsiednich ma nastepujące parametry: czas przełączania 3.5ns, czas ustawienia 1.5ns, czas podtrzymania 0.5ns oraz czas propagacji danych z wyjścia Q do wejścia D 0.5ns. Maksymalny skos zegara, przy którym para ta bedzie jeszcze poprawnie pracować, wynosi:
+3.5ns
+2.5ns
+5.0ns
+4.5ns

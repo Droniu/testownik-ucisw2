@@ -1,0 +1,6 @@
+X0010
+Aby nastąpiło poprawne przełączenie się przerzutnika synchronicznego, jego sygnał WE musi być stabilny wokół zbocza zegarowego przez czas równy:
+sumie czasu ustawienia (set-up) przerzutnika oraz skosu zegara
+sumie czasu przełączania się oraz podtrzymania (hold) przerzutnika
+sumie czasu ustawienia (set-up) oraz podtrzymania (hold)
+sumie czasu przełączania się przerzutnika oraz czasu ustawienia (set-up)

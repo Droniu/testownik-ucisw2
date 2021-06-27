@@ -1,0 +1,6 @@
+X0001
+Wymagany czas, przez który sygnał wejściowy przerzutnika musi być stabilny przed zboczem zegarowym, nazywa się:
+czasem przełączania
+czasem podtrzymania (hold)
+skosem
+czasem ustawienia (set-up)

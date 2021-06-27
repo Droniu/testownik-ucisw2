@@ -1,0 +1,6 @@
+X0100
+Wyjściowa charakterystyka prądowo-napięciowa bramki logicznej w stanie wysokim pozwala wyznaczyć:
+dopuszczalny zakres napięć jedynki logicznej dla WY bramki
+dynamiczną rezystancję WY bramki w tym stanie
+margines szumów bramki w tym stanie
+wzmocnienie logiczne bramki

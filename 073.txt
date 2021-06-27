@@ -1,0 +1,6 @@
+X0010
+Aby wyznaczyć stałoprądowy margines szumów bramki, potrzebna jest / potrzebne są ...
+prądowo-napięciowe charakterystyki wejściowe oraz wyjściowe bramki
+prądowo-napięciowe charakterystyki wyjściowe bramki w stanie wysokim oraz niskim
+przejściowa charakterystyka napięciowa
+prądowo-napięciowa charakterystyka wejśiowa bramki

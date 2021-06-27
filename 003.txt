@@ -1,0 +1,7 @@
+X0100
+Pewien układ zawiera 5 przerzutników, a czasy propagacji sygnału zegarowego z wyprowadzenia pinClk do nich nie są jednakowe i wynoszą: 1.2ns, 1.4ns, 1.6ns, 1.8ns oraz 2.0ns. Skos sygnału zegarowego w tym układzie jest równy:
+1.2ns
+0.8ns
+1.6ns
+2.0ns
+

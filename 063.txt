@@ -1,0 +1,6 @@
+X1000
+Wejściowa charakterystyka prądowo-napięciowa bramki logicznej pozwala wyznaczyć:
+prąd wejściowy bramki przy zwarciu WE do masy
+stałoprądowy margines szumów
+rezystancję wyjściową bramki w stanie niskim oraz wysokim
+wzmocnienie logiczne bramki

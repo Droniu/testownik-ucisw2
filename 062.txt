@@ -1,0 +1,6 @@
+X0010
+W szczegółowym modelu czasowym układów rodziny XC9500, maksymalna częstotliwość pracy układu przy wyłącznie wewnętrznych pętlach sprzężenia zwrotnego . . .
+zależy od opóźnienia wnoszonego przez wyjściowy bufor danych (Tout)
+nie zależy od opóźnienia matrycy PLD (Tlogi)
+nie zależy od opóźnienia wnoszonego przez bufor globalnego sygnału zegarowego (Tgck)
+zależy od opóźnienia wnoszonego przez wejściowy bufor danych (Tin)
