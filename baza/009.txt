@@ -4,4 +4,3 @@ w zależności od konfiguracji 16kb (przy rozmiarze słowa poniżej 8b) lub 18kb
 zawsze 16kb
 w zależności od konfiguracji 16kb (przy rozmiarze słowa poniżej 8b) lub 20kb (dla pozostałych przypadków)
 zawsze 20kb
-

@@ -2,4 +2,3 @@ X10
 Czy problemy w przełączaniu się przerzutników spowodowane dużym skosem sygnału zegarowego nasilają się, gdy maleją czasy przełączania się przerzutników?
 Prawda
 Fałsz
-

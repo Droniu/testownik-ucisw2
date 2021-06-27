@@ -4,4 +4,3 @@ W układzie Spartan-3E pamięć RAM16X3D zajmie:
 4x LUT
 3x LUT
 6x LUT
-
