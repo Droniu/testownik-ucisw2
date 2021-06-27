@@ -1,0 +1,6 @@
+X0000
+(NIEROZWIĄZANE) Pewien układ sekwencyjny został zaprogramowany w układzie rodziny XC9500 i jego przerzutniki przełączają się w takt jednego globalnego sygnału zegarowego. Jego czas przełączania sie widziany na wyprowadzeniach ( od pin GCK do pin I/O) zalezy m.in. od …
+czasu propagacji wewnętrznych sprzężeń zwrotnych (Tf)
+czasu propagacji wejściowego bufora globalnych linii set/reset (Tgsr)
+czasu propagacji wejściowego bufora danych (Tin)
+czasu propagacji wyjściowego bufora danych (Tout)

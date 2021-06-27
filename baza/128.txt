@@ -1,0 +1,6 @@
+X1000
+(NIEPOTWIERDZONE) Wybierz charakterystykę, z której można wyznaczyć prąd wyjściowy bramki w stanie wysokim przy zwarciu do masy:
+wyjściowa charakterystyka prądowo-napięciowa dla bramki w stanie wysokim
+przejściowa charakterystyka napięciowa
+wejściowa charakterystyka prądowo-napięciowa
+wyjściowa charakterystyka prądowo-napięciowa dla bramki w stanie niskim

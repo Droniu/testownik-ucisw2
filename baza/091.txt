@@ -1,6 +1,6 @@
-X0100
-Pewien układ scalony zawiera przerzutniki typu T, którego porty (Clk, T, Q) są dołączone do wyprowadzeń zewnętrznych obudowy poprzez bufory. Aby uzyskać spadek wymaganego czasu ustawienia (set-up) na wyprowadzeniu pinT względem pin CLK, należy:
-zwiększyć opóźnienie bufora w wyjściowej ścieżce Q
-zmniejszyć opóźnienie bufora w wejściowej ścieżce T
-zmniejszyć opóźnienie bufora w wejściowej ścieżce Clk
-zwiększyć opóźnienie bufora w wejściowej ścieżce T
+X0010
+Obciążalność (fan-out) bramki danej rodziny zależy tylko i wyłącznie od:
+rezystancji dynamicznych na WE oraz WY bramki
+zakresów napięć definiujących zero i jedynkę logiczną na WE oraz WY bramki
+maksymalnych prądów WE oraz WY bramki dla 0 oraz 1 log.
+minimalnych prądów WE oraz WY bramki dla 0 oraz 1 log.

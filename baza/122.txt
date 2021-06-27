@@ -1,0 +1,6 @@
+X0100
+Dana jest wejściowa charakterystyka prądowo-napięciowa pewnej bramki logicznej. Korzystając tylko z niej można wyznaczyć:
+zakresy napięć definiujące zero i jedynkę logiczną na WE bramki
+dynamiczną rezystancję wejściową bramki
+margines szumów na WE bramki
+obciążalność wejściową bramki

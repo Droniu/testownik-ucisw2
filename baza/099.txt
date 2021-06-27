@@ -1,6 +1,6 @@
-X1000
-W układzie Spartan-3E moduł pamięci blokowej został skonfigurowany w trybie pracy dwuportowej. Jeśli oba porty wykonują w tym samym momencie odczyt jednej komórki ...
-na obu portach pojawi się poprawny wynik odczytu
-na obu portach pojawią się nieokreślone dane z powodu konfliktu dostępu
-port B pokaże poprawny wynik odczytu, a port A - błędny
-port A pokaże poprawny wynik odczytu, a port B - błędny
+X0100
+Pewien przerzutnik w bloku WE/Wy próbkuje (nie zsynchronizowany) sygnał wejściowy D z częstotliwością 500Mhz, Podaj prawdopodobieństwo wystąpienia w nim metastabilnosci przy każdej zmianie D, jesli dlugosc jego przedziału metastabilnego W wynosi 100ps.
+2.0%
+5.0%
+0.5%
+0.2%

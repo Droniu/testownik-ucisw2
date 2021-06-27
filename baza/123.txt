@@ -1,0 +1,6 @@
+X0001
+(NIEPOTWIERDZONE) Pewien układ scalony zawiera przerzutniki typu T, którego porty (Clk, T, Q) są dołączone do wyprowadzeń zewnętrznych obudowy poprzez bufory. Aby uzyskać spadek wymaganego czasu ustawienia (set-up) na wyprowadzeniu pinT względem pin CLK, należy:
+zwiększyć opóźnienie bufora w wyjściowej ścieżce Q
+zmniejszyć opóźnienie bufora w wejściowej ścieżce T
+zmniejszyć opóźnienie bufora w wejściowej ścieżce Clk
+zwiększyć opóźnienie bufora w wejściowej ścieżce T

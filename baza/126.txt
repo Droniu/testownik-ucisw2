@@ -1,0 +1,6 @@
+X0100
+(NIEPOTWIERDZONE) W układzie Spartan-3E zrealizowano rejestr przesuwny przy użyciu 1 generatora LUT oraz 1 przerzutnika. Jaką wartość należy podać na WE adresowe LUT, aby ten miał długość 12 bitów?
+B"0111"
+B"1011"
+B"1010"
+B"1110"

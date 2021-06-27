@@ -1,0 +1,4 @@
+X10
+Czy stosowanie szybko przełączających się przerzutników potęguje problemy spowodowane dużym skosem sygnału zegarowego?
+Prawda
+Fałsz
