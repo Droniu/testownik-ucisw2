@@ -1,0 +1,6 @@
+X0010
+Pewien układ cyfrowy składa się z dwóch identycznych przerzutników (czas przełączania 2.5ns, czas ustawienia 1.0ns, czas podtrzymania 0.5 ns) połączonych ścieżką kombinacyjną . Jaki może być maksymalny czas propagacji ścieżki, aby układ ten mógł pracować z częstotliwością 100Mhz?
+7.0ns
+7.5ns
+6.5ns
+6.0ns
