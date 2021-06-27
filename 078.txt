@@ -1,0 +1,4 @@
+X10
+Czy można zrealizować pewną funkcję kombinacyjną 6 zm. oraz dowolną funkcję 4 zm. - obie w jednym bloku CLB układu z rodziny XC4000?
+Prawda
+Fałsz

@@ -1,0 +1,6 @@
+X0100
+Podaj minimalne zasoby niezbędne do realizacji modułu RAM64X3S w układzie Spartan-3E:
+8x LUT + 3x F6MUX
+12x LUT + 6x F5MUX + 3x F6MUX
+12x LUT + 3x F5MUX + 3x F6MUX
+8x LUT + 4x F5MUX + 2x F6MUX

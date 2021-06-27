@@ -1,0 +1,4 @@
+X01
+Wybierz metodę generacji sygnał zegarowego, która daje lepszą stabilność przy przejściowych zakłóceniach wzorcowego sygnału WE:
+DLL
+PLL

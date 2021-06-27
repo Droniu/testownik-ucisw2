@@ -1,0 +1,6 @@
+X1000
+Dla idealnej napięciowej charakterystyki przejściowej bramki logicznej znamienne jest to, że ...
+pokazuje jednostkowe nachylenie w obszarze przełączania się bramki pomiędzy 0 i 1 log
+pokazuje minimalne nachylenie w obszarze przełączania się bramki pomiędzy 0 i 1 log
+przecina się z prostą o nachyleniu 45 stopni w 3 punktach
+pokazuje maksymalne nachylenie w obszarze przełączania się bramki pomiędzy 0 i 1 log

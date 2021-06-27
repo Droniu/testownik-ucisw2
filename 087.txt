@@ -1,0 +1,6 @@
+X0100
+Jaką ilość pamięci blokowej ma układ Spartan-II o rozmiarze matrycy 20 wierszy na 30 kolumn?
+10 bloków pamięci RAM o łącznej pojemności 180kb
+10 bloków pamięci RAM o łącznej pojemności 40kb
+8 bloków pamięci RAM o łącznej pojemności 180kb
+8 bloków pamięci RAM o łącznej pojemności 40kb

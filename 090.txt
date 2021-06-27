@@ -1,0 +1,6 @@
+X0100
+Organizacja matrycy Logic Cell Array (LCA) to ...
+hierarchia bloków PLD
+macierz symetryczna
+morze bramek
+architektura wierszowa

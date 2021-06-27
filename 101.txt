@@ -1,0 +1,6 @@
+X0100
+W układzie Spartan-3E magistrale adresowe o szerokościach 11b oraz 9b ma element:
+RAMB16_S18_S36
+RAMB16_S9_S36
+RAMB16_S9_S18
+RAMB16_S36_S9

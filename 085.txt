@@ -1,0 +1,6 @@
+X0100
+Funkcję  f = (not x1) or (x2 and x3 and x4) zaprogramowano w generatorze LUT układu Spartan-3E. Jakie wartości wpisano do komórek tablicy LUT pod na młodszym i najstarszym adresem?
+zero (adres najmłodszy) oraz zero (adres najstarszy)
+jeden (adres najmłodszy) oraz jeden (adres najstarszy)
+jeden (adres najmłodszy) oraz zero (adres najstarszy)
+zero (adres najmłodszy) oraz jeden (adres najstarszy)

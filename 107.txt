@@ -1,0 +1,6 @@
+X0100
+W parametrach przerzutnika czas ustawienia (set-up) to . . .
+czas zmiany sygnału WY z 0 na 1 log.
+wymagany czas stabilności WE przed zboczem zegara
+czas zmiany sygnału WY z 1 na 0 log.
+wymagany czas stabilności WE po zboczu zegara

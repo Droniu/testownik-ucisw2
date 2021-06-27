@@ -1,0 +1,6 @@
+X0010
+Dwuportowy tryb pracy modułu RAM16X1D układu Spartan-3E umożliwia ...
+synchroniczny zapis oraz asynchroniczny odczyt na obu portach (podstawowym i dualnym)
+synchroniczny zapis oraz odczyt na porcie podstawowym + asynchroniczny odczyt na porcie dualnym
+synchroniczny zapis oraz asynchroniczny odczyt na porcie podstawowym + asynchroniczny odczyt na porcie dualnym
+synchroniczny zapis oraz odczyt na porcie podstawowym + synchroniczny odczyt na porcie dualnym

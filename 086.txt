@@ -1,0 +1,6 @@
+X1000
+W generatorze LUT układu Spartan-3E zaprogramowano funkcję obliczaną dla argumentu x(3:0), gdzie x jest inrepretowana jak liczba w naturalnym kodzie binarnym. Funkcja zwraca wartość jeden wtedy i tylko wtedy, gdy 3 < x < 8. Ile zer oraz ile jedynek wpisano do komórek pamięci generatora?
+12 zer oraz 4 jedynki
+4 zera oraz 4 jedynki
+3 zera oraz 5 jedynek
+4 zera oraz 12 jedynek

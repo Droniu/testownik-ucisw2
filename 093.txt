@@ -1,0 +1,6 @@
+X0100
+Podaj funkcjonalność, którą ustawia atrybut WRITE_MODE dla pamięci blokowej układu Spartan-3E:
+sposób zapisu komórek pamięci podczas operacji MEM_WRITE
+źródło danych, które pojawiają się na porcie odczytu (DO) podczas operacji zapisu
+tryb zapisu synchroniczny bądź asynchroniczny
+sposób odczytu komórek pamięci podczas operacji MEM_READ

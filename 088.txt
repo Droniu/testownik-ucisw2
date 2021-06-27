@@ -1,0 +1,6 @@
+X0100
+Moduł Digital Clock Manager w układach Spartan-3E uzyskuje synchronizację wewnętrznego sygnału zegarowego z zewnętrznym źródłem referencyjnym poprzez
+sterowanie częstotliwością oraz wyprzedzeniem fazowym
+sterowanie tylko wyprzedzeniem fazowym
+sterowanie tylko współczynnikiem wypełnienia
+sterowanie tylko częstotliwością

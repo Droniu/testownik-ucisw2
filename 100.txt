@@ -1,0 +1,6 @@
+X0100
+W elemencie RAM16X1S rodziny XC4000:
+odczyt i zapis następuje Synchronicznie
+odczyt następuje Asynchronicznie, natomiast zapis - Synchronicznie
+odczyt następuje Synchronicznie, natomiast zapis - Asynchronicznie
+odczyt i zapis następuje Asynchronicznie

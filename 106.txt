@@ -1,0 +1,6 @@
+X1000
+W układzie Spartan-3E moduł pamięci blokowej został skonfigurowany w trybie pracy dwuportowej. Jeśli oba porty wykonują w tym samym momencie odczyt jednej komórki . . .
+na obu portach pojawi się poprawny wynik odczytu
+port B pokaże poprawny wynik odczytu, a port A - błędny
+na obu portach pojawią się nieokreślone dane z powodu konfliktu dostępu
+port A pokaże poprawny wynik odczytu, a port B - błędny

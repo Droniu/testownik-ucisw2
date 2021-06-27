@@ -1,0 +1,6 @@
+X0001
+W układzie Spartan-3E element RAMB16_Sx został skonfigurowany tak, że jego magistrala adresowa ma szerokość 10b. W tej konfiguracji magistrala DIP ma szerokość
+4b
+3b
+1b
+2b

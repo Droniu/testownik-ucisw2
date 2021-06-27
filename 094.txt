@@ -1,0 +1,6 @@
+X1111
+Poniżej podano różne liczby dedykowanych multiplekserów określonego typu występujących w obrębie jednego bloku CLB układu Spartan-3E = dopasuj do nich typ multipleksera:
+4 - F5MUX
+1 - F7MUX
+2 - F6MUX
+0.5 (jeden na dwa bloki) - F8MUX

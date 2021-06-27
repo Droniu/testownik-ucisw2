@@ -1,0 +1,6 @@
+X0010
+Dla pewnej bramki logicznej maksymalne prądy WE wynoszą 2mA dla zera / 0.5mA dla jedynki logicznej, a maksymalne prądy WY - 12mA dla zera / 8 mA dla jedynki. Obciążalność tej bramki wynosi:
+10
+16
+6
+11

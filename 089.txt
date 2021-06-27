@@ -1,0 +1,6 @@
+X0010
+Minimalny okres zegara (wyznaczający maksymalną częstotliwość pracy układu cyfrowego) jest obliczany jako suma ...
+czasu przełączania się oraz ustawienia (set-up) przerzutników plus najdłuższy czas propagacji kombinacyjnej występującej pomiędzy przerzutnikami w układzie
+czasu przełączania się oraz podtrzymania (hold) przerzutników plus najdłuższy czas propagacji kombinacyjnej występującej pomiędzy przerzutnikami w układzie
+czasu przełączania się oraz ustawienia (set-up) przerzutników plus najkrótszy czas propagacji kombinacyjnej występującej pomiędzy przerzutnikami w układzie
+czasu przełączania się oraz podtrzymania (hold) przerzutników plus najkrótszy czas propagacji kombinacyjnej występującej pomiędzy przerzutnikami w układzie

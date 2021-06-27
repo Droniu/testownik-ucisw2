@@ -1,0 +1,4 @@
+X10
+Czy implementacje stosujące szybkie ścieżki propagacji danych pomiędzy przerzutnikami potęguje problemy w ich przełączaniu powodowane dużym skosem sygnału zegarowego?
+Prawda
+Fałsz

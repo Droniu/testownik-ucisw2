@@ -1,0 +1,6 @@
+X0100
+Z jakiego wykresu można wyznaczyć margines szumów (stałoprądowy) bramki logicznej?
+z wyjściowej charakterystyki prądowo-napięciowej dla bramki w stanie wysokim
+z przejściowej charakterystyki napięciowej
+z wejściowej charakterystyki prądowo-napięciowej
+z wyjściowej charakterystyki prądowo-napięciowej dla bramki w stanie niskim

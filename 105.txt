@@ -1,0 +1,6 @@
+X0010
+W układzie Spartan-3E moduł pamięci blokowej został skonfigurowany w trybie pracy dwuportowej. Jeśli oba porty wykonują w tym samym momencie zapis jednej komórki . . .
+nowa zawartość komórki będzie wczytana z portu B jako tego o wyższym priorytecie
+nowa zawartość komórki będzie wczytana z portu A jako tego o wyższym priorytecie
+nowa zawartość komórki będzie nieokreślona
+nowa zawartość komórki będzie wczytana z portu A lub B w zależności od ustawienia atrybutu

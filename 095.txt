@@ -1,0 +1,6 @@
+X0100
+Przyjmując uproszczony model zastępczy szacujący straty mocy w układzie cyfrowym, straty te zależą:
+liniowo od kwadratu (drugiej potęgi) częstotliwości pracy
+liniowo od sumy pojemności obciążającej i zastępczej pojemności wewnętrznej
+liniowo od kwadratu (drugiej potęgi) sumy pojemności obciążającej i zastępczej pojemności wewnętrznej
+liniowo od róznicy pojemności obciążającej i zastępczej pojemności wewnętrznej

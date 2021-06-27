@@ -1,0 +1,6 @@
+X0001
+W pewnym układzie występują problemy powodowane przez duży skos sygnału zegarowego. Wybierz, która z poniższych modyfikacji może doprowadzić do ich usunięcia.
+użycie dedykowanych elementów do generacji on-chip sygnałów zegarowych
+zmniejszenie częstotliwości sygnałów zegarowych
+użycie synchronizatorów podwójnych na WE sygnałów zegarowych
+użycie wyłącznie dedykowanych wyprowadzeń i sieci do dystrybucji sygnałów zegarowych

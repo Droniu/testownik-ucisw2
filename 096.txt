@@ -1,0 +1,6 @@
+X0010
+Wybierz, co jest głównym kryterium konstrukcji globalnych sieci dystrybucji sygnałów zegarowych w układach cyfrowych: 
+redukcja zajmowanej powierzchni układu
+uzyskanie jak najkrótszych czasów propagacji od pinClk do przerzutników
+uzyskanie jak najbardziej wyrównanwych czasów propagacji od pinClk do wszystkich przerzutników w układzie, nawet kosztem wydłużenia tych czasów
+redukcja strat mocy w układzie

@@ -1,0 +1,4 @@
+X01
+Czy zmniejszanie częstotliwości sygnału zegarowego pomaga eliminować problemy w przełączaniu się przerzutników spowodowane jego dużym skosem?
+Prawda
+Fałsz

@@ -1,0 +1,4 @@
+X10
+W pewnym układzie występują problemy powodowane przez duży skos sygnału zegarowego. Czy można je eliminować prowadząc sygnały zegarowe wszystkich przerzutników przez dedykowane sieci ich dystrybucji?
+Prawda
+Fałsz

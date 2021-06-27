@@ -1,0 +1,6 @@
+X0001
+Dla pewnej bramki logicznej zakresy napięć zera log. wynoszą 0 - 1.8V na WE oraz 0 - 1.0 na WY, a jedynki log. - 2.5 - 3.3V na WE / 3.0 - 3.3V na WY. Margines szumów tej bramki jest równy:
+0.30V
+0.65V
+0.80V
+0.50V

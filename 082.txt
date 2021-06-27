@@ -1,0 +1,6 @@
+X0010
+Dla pewnej bramki dana jest charakterystyka napięciowa (przejściowa). Parametry, jakie z niej można odczytać, to:
+czas reakcji bramki przy przełączaniu się z 0 na 1
+zakresy napięć definiujące zero i jedynkę logiczną, ale tylko na WE bramki
+zakresy napięć definiujące zero i jedynkę logiczną na WE i WY bramki
+czasy reakcji bramki przy przełączaniu się z 0 na 1 oraz z 1 na 0

@@ -1,0 +1,6 @@
+X1000
+Blok pamięci RAM w układzie Spartan-3E został skonfigurowany w trybie jedno portowym z 11-bitową magistralą adresową. Magistrale danych (DI oraz DO) będą miały szerokość:
+8b + 1b parzystości
+2b
+8b
+4b

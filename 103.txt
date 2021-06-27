@@ -1,0 +1,6 @@
+X0100
+W układach Spartan-3E pamięć blokowa skonfigurowana dwuportowo ma porty, które przy jednoczesnym dostępie do tej samej komórki...
+mają różny priorytet - zawsze port A przed portem B
+mają ten sam priorytet
+mają różny priorytet - zawsze port B przed portem A
+mają różny priorytet ustalany atrybutem

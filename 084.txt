@@ -1,0 +1,6 @@
+X1111
+Dopasuj opis najlepiej pasujący do typu architektury:
+architektura hierarchiczna - najbardziej złożone bloki konfigurowalne
+morze bramek - brak wyróżnionych globalnych zasobów połączeniowych
+macierz symetryczna - połączenia biegnące przez globalną matrycę połączeniową
+architektura wierszowa - zasoby połączeniowe biegnące w jednym kierunku

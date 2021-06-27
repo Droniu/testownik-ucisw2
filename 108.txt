@@ -1,0 +1,6 @@
+X0001
+Zmierzono czasy opóźnień pewnej bramki logicznej i wyniosły one 1.0ns przy przełączaniu 0->1 oraz 1.5ns przy przełączaniu 1->0. Czas propagacji tej bramki wynosi …
+1.75ns
+1.25ns
+1.00ns
+1.50ns
