@@ -1,0 +1,8 @@
+X111111
+Podaj, ile bitów parzystości oferuje pamięć blokowa w układach Spartan-3E w zależności od rozmiaru komórki danych:
+1b - 0
+2b - 0
+4b - 0
+8b - 1
+16b - 2
+32b - 4

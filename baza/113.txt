@@ -1,0 +1,6 @@
+X0010
+Para przerzutników sekwencyjnie sąsiednich ma następujące parametry: czas przełączania 3.0ns, czas ustawienia 2.0ns, czas podtrzymania 1.0ns. Jeśli wiadomo, że skos zegara pomiędzy tymi przerzutnikami moze osiagnac 5.0ns, jakie opóźnienie trzeba wprowadzić do łączącej je ścieżki danych, aby zapewnic ich poprawna prace?
+2.0ns
+5.0ns
+3.0ns
+4.0ns

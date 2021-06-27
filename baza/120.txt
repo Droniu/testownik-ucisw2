@@ -1,0 +1,6 @@
+X1000
+Oblicz minimalny czas trwania stanu metastabilnego w przerzutniku wejściowym synchronizatora pojedynczego, który zakłóci pracę układu, tzn. nie zostanie wygaszony w synchronizatorze. Częstotliwość próbkowania jest równa 200MHz, a parametry przerzutników w synchronizatorze wynoszą: czas ustawienia Ts = 1.0ns, czas przełączania Tco = 1.5ns, a czas podtrzymania Th = 0.5ns.
+2.5ns
+3.0ns
+2.0ns
+3.5ns

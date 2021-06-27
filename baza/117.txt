@@ -1,0 +1,6 @@
+X0010
+W układzie Spartan-3E został optymalnie zrealizowany multiplekser 16:1. Ile zasobów zostało użytych?
+4x LUT + 2x F5MUX + 1x F6MUX
+2x LUT + 2x F5MUX + 1x F6MUX
+8x LUT + 4x F5MUX + 2x F6MUX + 1x F7MUX
+16x LUT + 8x F5MUX + 4x F6MUX + 2x F7MUX + 1x F8MUX

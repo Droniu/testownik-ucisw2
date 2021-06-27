@@ -1,0 +1,6 @@
+X0100
+W generatorach sygnałów zegarowych PLL, głównym zadaniem układu sterującego jest
+uzgodnienie tylko współczynnika wypełnienia z sygnałem referencyjnym
+uzgodnienie częstotliwości oraz wyprzedzenia fazowego z sygnałem referencyjnym
+uzgodnienie tylko wyprzedzenia fazowego z sygnałem referencyjnym
+uzgodnienie tylko częstotliwości z sygnałem referencyjnym

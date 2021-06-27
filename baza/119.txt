@@ -1,0 +1,6 @@
+X1000
+W pewnej matrycy programowalnej zrealizowano układ złożony z 4 przerzutników. Ile wynosi skos zegara w tej implementacji, jeśli czasy propagacji sygnału zegarowego z wyprowadzenia pinClk do przerzutników wynoszą: 0.8ns, 0.8ns, 1.0ns oraz 1.2ns?
+0.4ns
+1.2ns
+0.8ns
+0.95ns

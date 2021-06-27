@@ -1,0 +1,6 @@
+X0010
+Pewną funkcją 10 zmiennych po podziale udalo sie zrealizowac w jednym bloku CLB układu Spartan-3E. Podaj minimalną ilość zasobów, jaka mogła zostać użyta w najbardziej korzystnym przypadku podziału zmiennych funkcji.
+1x F5MUX + 2x LUT
+1x F6MUX + 1x F5MUX + 4x LUT
+1x F6MUX + 2x F5MUX + 4x LUT
+1x F7MUX + 2x F6MUX + 4x F5MUX + 8x LUT
