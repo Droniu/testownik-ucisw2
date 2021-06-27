@@ -4,4 +4,3 @@ Pewien układ zawiera 5 przerzutników, a czasy propagacji sygnału zegarowego z
 0.8ns
 1.6ns
 2.0ns
-
