@@ -1,5 +1,5 @@
-X0000
-(NIEROZWIĄZANE) Napięciowa charakterystyka przejściowa bramki logicznej przecina się z prostą o nachyleniu jednostkowym w 3 punktach. Punkty te ...
+X0010
+(NIEPOTWIERDZONE) Napięciowa charakterystyka przejściowa bramki logicznej przecina się z prostą o nachyleniu jednostkowym w 3 punktach. Punkty te ...
 wyznaczają dopuszczalne zakresy napięć dla zera i jedynki logicznej na WE bramki
 wyznaczają napięcia WE/WY, które ustalają się w łańcuchu kaskadowo połączonych bramek tego typu
 wyznaczają dopuszczalne zakresy napięć dla zera i jedynki logicznej zarówno na WE, jak i na WY bramki

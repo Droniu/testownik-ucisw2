@@ -1,5 +1,5 @@
-X0000
-(NIEROZWIĄZANE) W układzie Virtex-5 generator funkcji logicznej LUT odpowiada wprost elementowi . . .
+X1000
+W układzie Virtex-5 generator funkcji logicznej LUT odpowiada wprost elementowi . . .
 ROM64X1
 ROM32X1
 RAM32X1S

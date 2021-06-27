@@ -1,5 +1,5 @@
-X0000
-(NIEROZWIĄZANE) Pewien układ scalony zawiera przerzutniki typu D o niezerowym czasie podtrzymania (hold), którego port (Clk, D, Q) są dołączone do wyprowadzeń zewnętrznych obudowy poprzez bufory. Aby uzyskać zerowy czas podtrzymania sygnału pinD, wzgledem pinClk, należy:
+X0001
+(NIEPOTWIERDZONE) Pewien układ scalony zawiera przerzutniki typu D o niezerowym czasie podtrzymania (hold), którego port (Clk, D, Q) są dołączone do wyprowadzeń zewnętrznych obudowy poprzez bufory. Aby uzyskać zerowy czas podtrzymania sygnału pinD, wzgledem pinClk, należy:
 uzyskać opóźnienie ścieżce pinD mniejsze niż w pinC o czas podtrzymania przerzutnika
 uzyskać opóźnienie ścieżce pinD mniejsze niż w pinC o czas ustawienia przerzutnika
 uzyskać opóźnienie ścieżce pinD większe niż w pinC o czas ustawienia przerzutnika

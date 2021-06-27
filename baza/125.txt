@@ -1,5 +1,5 @@
 X0001
-(NIEPOTWIERDZONE) Średni czas trwania stanu metastabilnego w pewnym przerzutniku wynosi 100ps. Prawdopodobieństwo, że stan ten - jeśli już wystąpił - będzie trwał co najmniej 200ps wynosi:
+Średni czas trwania stanu metastabilnego w pewnym przerzutniku wynosi 100ps. Prawdopodobieństwo, że stan ten - jeśli już wystąpił - będzie trwał co najmniej 200ps wynosi:
 0.5
 e^(-1)
 0.25

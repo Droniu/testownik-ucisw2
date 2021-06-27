@@ -1,5 +1,5 @@
-X0000
-(NIEROZWIĄZANE) W pewnym projekcie zaimplementowanym w układzie Spartan-3E występuje jeden globalny sygnał zegarowy o częstotliwości 100MHz, a sieć jego dystrybucji ma łączny czas propagacji 16ns. Które opóźnienia linii DLL poprawnie je skompensują? Wybierz jedną z poniższych opcji.
+X0001
+(NIEPOTWIERDZONE) W pewnym projekcie zaimplementowanym w układzie Spartan-3E występuje jeden globalny sygnał zegarowy o częstotliwości 100MHz, a sieć jego dystrybucji ma łączny czas propagacji 16ns. Które opóźnienia linii DLL poprawnie je skompensują? Wybierz jedną z poniższych opcji.
 np. 16ns
 np. 4ns i 6ns
 np. 6ns

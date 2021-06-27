@@ -1,5 +1,5 @@
 X0010
-(NIEPOTWIERDZONE) W układzie odbiornika transmisji szeregowej z synchronizatorem pojedynczym zakłócenia metastabilne występują średnio co 3sec przy częstotliwości sygnału danych F = 200MHz. Co jaki czas będą one występowały , jeśli częstotliwość ta zmieni się na F = 400MHz?
+W układzie odbiornika transmisji szeregowej z synchronizatorem pojedynczym zakłócenia metastabilne występują średnio co 3sec przy częstotliwości sygnału danych F = 200MHz. Co jaki czas będą one występowały , jeśli częstotliwość ta zmieni się na F = 400MHz?
 co 5.00sec
 co 0.50sec
 co 1.50sec
